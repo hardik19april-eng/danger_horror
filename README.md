@@ -2,5 +2,6 @@ It is a horror game where the player is in a dark asylum maze and have to find 4
 I made this game in the VSCode.
 I used AI but just to correct some errors and some movement related issues.
 This game is very similar to Granny, but our motive is a bit different....
+I used AI just to correct some errors and to smoothen the movement.
 
 You can play out this game at - https://hardik19april-eng.github.io/danger_horror/
