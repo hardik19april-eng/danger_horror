@@ -10,3 +10,9 @@ In this game, we have to find 4 fuses, if we found all we win, but if the patien
 There is nothing difficult to understand the game, when you will play it, you can easily understand everything.
 
 You can play out this game at - https://hardik19april-eng.github.io/danger_horror/
+
+
+
+
+<img width="1911" height="1026" alt="Screenshot 2026-11-05 160737" src="https://github.com/user-attachments/assets/9de4c8ed-0b8a-4904-b329-7fa691e39cc1" />
+<img width="1891" height="1015" alt="Screenshot 2026-11-11 141041" src="https://github.com/user-attachments/assets/9a637ffa-c61b-485c-b6b2-3b9b792b940d" />
