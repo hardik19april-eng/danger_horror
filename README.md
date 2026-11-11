@@ -5,5 +5,8 @@ This game is very similar to Granny, but our motive is a bit different....
 I used AI just to correct some errors and to smoothen the movement.
 This game took almost 3 hours to code, I tracked the time using Hackatime extension.
 At first I created a folder and inside it, I created a file"index.html", where i coded for many hours, and finally I was satisfied with my efforts!
+This game can be played on any web browser.
+In this game, we have to find 4 fuses, if we found all we win, but if the patient found us in between, we lose the whole game.
+There is nothing difficult to understand the game, when you will play it, you can easily understand everything.
 
 You can play out this game at - https://hardik19april-eng.github.io/danger_horror/
